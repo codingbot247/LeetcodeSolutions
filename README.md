@@ -3,7 +3,9 @@ This repository is having the solution codes in c++ of the problems available on
 ----------------------------------------------------
 //Problem: Contains Duplicate:
 //Approach-Bruteforce(will be giving a TLE)
-Code: 
+Code-->
+
+
  bool containsDuplicate(vector<int>& nums) {
        long long int s=nums.size();
         for(int i=0; i<s-1; i++){
